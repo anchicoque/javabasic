@@ -1,5 +1,5 @@
 //description: Aplicación que calcula el area, perimetro y mas en tres figuras geometricas, utilizando herencia y JOptionPane 
-//Date: 08-11-2018
+//Date: 08-07-2020 21:59
 //Author: Alex Anchicoque
 package areas3;
 
@@ -24,7 +24,7 @@ public class Areas3 {
                 + "7. Calcular diagonal del cuadrado\n"
                 + "8. Calcular diametro del circulo\n"
                 + "9. Calcular hipotenusa del triangulo\n"
-                + "0. Salir";
+                + "0. Salir.";
         do {
             try {
                 opcion = Integer.parseInt(JOptionPane.showInputDialog(null, menu));
