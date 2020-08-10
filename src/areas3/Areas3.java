@@ -1,5 +1,5 @@
 //description: Aplicación que calcula el area, perimetro y mas en tres figuras geometricas, utilizando herencia y JOptionPane 
-//Date: 08-07-2020 21:59
+//Date: 08-07-2020 22:06
 //Author: Alex Anchicoque
 package areas3;
 
